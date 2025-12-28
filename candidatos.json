@@ -2,13 +2,31 @@
   {
     "id": "c1",
     "nome": "Candidato 1",
-    "partido": "Partido A",
+    "partido": "PARTIDO A",
     "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
   },
   {
     "id": "c2",
     "nome": "Candidato 2",
-    "partido": "Partido B",
+    "partido": "PARTIDO B",
     "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.png"
+  },
+  {
+    "id": "c3",
+    "nome": "Candidato 3",
+    "partido": "PARTIDO C",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
+  },
+  {
+    "id": "c4",
+    "nome": "Candidato 4",
+    "partido": "PARTIDO D",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.png"
+  },
+  {
+    "id": "c5",
+    "nome": "Candidato 5",
+    "partido": "PARTIDO E",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
   }
 ]
