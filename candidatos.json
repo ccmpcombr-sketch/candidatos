@@ -1,33 +1,27 @@
 [
   {
-    "id": "Candidato 1",
-    "nome": "Candidato 1",
-    "partido": "PARTIDO A",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
+    "id": "Flavio Bolsonaro",
+    "nome": "Flavio Bolsonaro",
+    "partido": "Partido Liberal-PL",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Flavio%20Bolsonaro%20para%20Urna.png"
   },
   {
-    "id": "Candidato 2",
-    "nome": "Candidato 2",
-    "partido": "PARTIDO B",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.png"
+    "id": "Tarcizio de Freitas",
+    "nome": "Tarcizio de Freitas",
+    "partido": "Partido Republicano-PRB",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Tarcizio%20de%20Freitas%20para%20Urna.png"
   },
   {
-    "id": "Candidato 3",
-    "nome": "Candidato 3",
-    "partido": "PARTIDO C",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
+    "id": "Romeu Zema",
+    "nome": "Romeu Zema",
+    "partido": "Partido Novo-PN",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Zema%20para%20Urna.png"
   },
   {
-    "id": "Candidato 4",
-    "nome": "Candidato 4",
-    "partido": "PARTIDO D",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/refs/heads/main/anuncios/Facebook.png"
-  },
-  {
-    "id": "Candidato 5",
-    "nome": "Candidato 5",
-    "partido": "PARTIDO E",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/radio-player-data/main/logo.png"
+    "id": "Lula",
+    "nome": "Lula",
+    "partido": "Partido dos Trabalhadores-PT",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Lula%20para%20Urna.png"
   }
 ]
 
