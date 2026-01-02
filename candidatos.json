@@ -1,27 +1,29 @@
-[
-  {
-    "id": "Flavio Bolsonaro",
-    "nome": "Flavio Bolsonaro",
-    "partido": "Partido Liberal-PL",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Flavio%20Bolsonaro%20para%20Urna.png"
-  },
-  {
-    "id": "Tarcizio de Freitas",
-    "nome": "Tarcizio de Freitas",
-    "partido": "Partido Republicano-PRB",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Tarcizio%20de%20Freitas%20para%20Urna.png"
-  },
-  {
-    "id": "Romeu Zema",
-    "nome": "Romeu Zema",
-    "partido": "Partido Novo-PN",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Zema%20para%20Urna.png"
-  },
-  {
-    "id": "Lula",
-    "nome": "Lula",
-    "partido": "Partido dos Trabalhadores-PT",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Lula%20para%20Urna.png"
-  }
-]
-
+{
+  "enquete": "Vote Para Presidente 2026",
+  "candidatos": [
+    {
+      "id": "Flavio Bolsonaro",
+      "nome": "Flavio Bolsonaro",
+      "partido": "Partido Liberal-PL",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Flavio%20Bolsonaro%20para%20Urna.png"
+    },
+    {
+      "id": "Tarcizio de Freitas",
+      "nome": "Tarcizio de Freitas",
+      "partido": "Partido Republicano-PRB",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Tarcizio%20de%20Freitas%20para%20Urna.png"
+    },
+    {
+      "id": "Romeu Zema",
+      "nome": "Romeu Zema",
+      "partido": "Partido Novo-PN",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Zema%20para%20Urna.png"
+    },
+    {
+      "id": "Lula",
+      "nome": "Lula",
+      "partido": "Partido dos Trabalhadores-PT",
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Lula%20para%20Urna.png"
+    }
+  ]
+}
