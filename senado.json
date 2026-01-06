@@ -3,25 +3,19 @@
     "id": "Silvia Cristina",
     "nome": "Silvia Cristina",
     "partido": "Partido Progressista-PP",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Silvia%20Cristina.jpg"
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Silvia%20Cristina.png"
   },
   {
-    "id": "Tarcizio de Freitas",
-    "nome": "Tarcizio de Freitas",
-    "partido": "Partido Republicano-PRB",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Tarcizio%20de%20Freitas%20para%20Urna.png"
+    "id": "Fernando Máximo",
+    "nome": "Fernando Máximo",
+    "partido": "União Brasil-UNIÃO",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Fernando%20M%C3%A1ximo.png"
   },
   {
-    "id": "Romeu Zema",
-    "nome": "Romeu Zema",
-    "partido": "Partido Novo-PN",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Zema%20para%20Urna.png"
-  },
-  {
-    "id": "Lula",
-    "nome": "Lula",
-    "partido": "Partido dos Trabalhadores-PT",
-    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Lula%20para%20Urna.png"
+    "id": "Confúcio Moura",
+    "nome": "Confúcio Moura",
+    "partido": "Movimento Democrático Brasileiro-MDB",
+    "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/candidatos/refs/heads/main/Conf%C3%BAcio%20Moura.png"
   }
 ]
 
